@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+# Output
+![React-obj-fetching](https://user-images.githubusercontent.com/92413748/146487605-77fdc7db-a798-477d-94c5-4bfca6245acc.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
